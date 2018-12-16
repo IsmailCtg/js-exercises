@@ -1,4 +1,4 @@
-# JavaScript exercises
+# Mohammad
 
 1. Fork this repo
 2. Clone it to your machine
